@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import psutil
 
 def check_cup_usage(percent):
